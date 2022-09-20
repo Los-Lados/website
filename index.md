@@ -11,4 +11,5 @@ image: /assets/images/amine-ounnas-180287.jpg
 introduction: |
   product #1 - Algotrading bot
 comments: false
+menu: false
 ---
