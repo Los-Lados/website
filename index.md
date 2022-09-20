@@ -5,12 +5,11 @@
 layout: home
 paginate: false
 alt_title: "Lados"
-sub_title: "Crypto Enthusiasts"
+sub_title: "Analysts by Trade"
 introduction: |
-  product #1 - Algotrading bot
+  Lados are a team focused on Algorithmic Crypto & FX Trading
 actions:
   - label: "Get In Touch"
-    icon: email
     url: "home@lados.trade"
   - label: "About"
     url: "/about"
