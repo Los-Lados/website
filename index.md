@@ -8,5 +8,11 @@ alt_title: "Lados"
 sub_title: "Crypto Enthusiasts"
 introduction: |
   product #1 - Algotrading bot
+actions:
+  - label: "Get In Touch"
+    icon: email
+    url: "home@lados.trade"
+  - label: "About"
+    url: "/about"
 comments: false
 ---

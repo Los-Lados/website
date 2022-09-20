@@ -4,8 +4,7 @@
 
 layout: page
 paginate: false
-alt_title: "Lados"
-sub_title: "Crypto Enthusiasts"
+sub_title: "Contact"
 introduction: |
-  Terms of Service
+  
 ---

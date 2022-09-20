@@ -7,5 +7,5 @@ paginate: false
 alt_title: "Lados"
 sub_title: "Crypto Enthusiasts"
 introduction: |
-  product #1 - Algotrading bot
+  Contact us
 ---
