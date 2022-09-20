@@ -8,4 +8,7 @@ alt_title: "Lados"
 sub_title: "Crypto Enthusiasts"
 introduction: |
   Contact us
+actions:
+  - label: "Get In Touch"
+    url: "mailto:home@lados.trade"
 ---

@@ -10,7 +10,7 @@ introduction: |
   Lados are a team focused on Algorithmic Crypto & FX Trading
 actions:
   - label: "Get In Touch"
-    url: "home@lados.trade"
+    url: "/contact"
   - label: "About"
     url: "/about"
 comments: false
